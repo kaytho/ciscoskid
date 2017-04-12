@@ -29,12 +29,21 @@ h1{
 }
 
 table{
-  margin-top: 50px;  
+  margin-top: 50px;
   color: #E20F84;
   text-align: justify;
 }
 span{
   color:#F8E408;
+}
+
+table img{
+  height: 200px;
+  width: 200px;
+}
+
+img{
+  width: 80%;
 }
 
   #about{
