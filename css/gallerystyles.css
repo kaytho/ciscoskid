@@ -29,6 +29,9 @@ h1{
   margin-top: 50px;
 }
 
+
+
+
 table{
   margin-top: 3.14em;
   color: #E20F84;
@@ -39,11 +42,8 @@ table{
   margin: 0;
 }
 
-span{
-  color:#F8E408;
-}
-
-
-img{
-  width: 80%;
+table img{
+  height: 12.5em;
+  width:12.5em;
+  position: relative;
 }

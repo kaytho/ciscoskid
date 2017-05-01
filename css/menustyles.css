@@ -28,22 +28,3 @@ h1{
   text-align: center;
   margin-top: 50px;
 }
-
-table{
-  margin-top: 3.14em;
-  color: #E20F84;
-  text-align: center;
-  margin-bottom: 3.14em;
-  /*width: 100%;*/
-  position: absolute;
-  margin: 0;
-}
-
-span{
-  color:#F8E408;
-}
-
-
-img{
-  width: 80%;
-}

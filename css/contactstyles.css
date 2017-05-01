@@ -1,0 +1,69 @@
+body{
+  background-color: black;
+  width: 100%;
+}
+  nav{
+    background-color:#F8E408;
+    color:black;
+    width: 100%;
+    text-align: center;
+    column-rule-color: white;
+    font-size: 20px;
+  }
+
+  #namesquare{
+    background-color: #E20F84;
+    height: 20em;
+    width: 100%;
+  }
+
+  #namesquare img{
+    height: 20em;
+    width: 40%;
+  }
+
+h1{
+  font-size: 20px;
+  color: white;
+  text-align: center;
+  margin-top: 50px;
+}
+#contact nav a{
+  color:black;
+}
+#contact{
+  text-align: center;
+  width: auto;
+  font-size: 1.26em;
+  color:#F8E408;
+  background-color: black;
+  height: 100%;
+}
+
+#contact #social{
+  border: #F8E408 3px dashed;
+  background-color:#E20F84;
+  font-size: 1.26em;
+  opacity: .80;
+  width: 31.4em;
+  /*margin-left:700px;*/
+  height: 36em;
+  margin-top: 6.28em;
+}
+#contact #social b{
+  font-size: 1.89em;
+}
+#contact #social a{
+  color: white;
+  font-size: 1.57em;
+}
+#contact #social a:link{
+  color: white;
+}
+
+#contact #social ul{
+  margin-top: 0.94em;
+}
+#contact #hours{
+  margin-bottom: 25px;
+}
