@@ -45,10 +45,10 @@ h1{
   background-color:#E20F84;
   font-size: 1.26em;
   opacity: .80;
-  width: 31.4em;
+  width: 80%
   /*margin-left:700px;*/
   height: 36em;
-  margin-top: 6.28em;
+  margin-top: 1.28em;
 }
 #contact #social b{
   font-size: 1.89em;
@@ -66,4 +66,17 @@ h1{
 }
 #contact #hours{
   margin-bottom: 25px;
+}
+
+@media only screen and (min-width:768px) {
+  #contact #social{
+    border: #F8E408 3px dashed;
+    background-color:#E20F84;
+    font-size: 1.26em;
+    opacity: .80;
+    width: 80%
+    /*margin-left:700px;*/
+    height: 36em;
+    margin-top: 6.28em;
+  }
 }

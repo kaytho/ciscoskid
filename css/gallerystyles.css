@@ -15,8 +15,17 @@ body{
     background-color: #E20F84;
     height: 20em;
     width: 100%;
+    left: 0;
+    right: 0;
   }
 
+  /*#namesquare{
+    background-color: #E20F84;
+    height: 20em;
+    width: 100%;
+    left: 0;
+    right: 0;
+  }*/
   #namesquare img{
     height: 20em;
     width: 40%;
@@ -37,13 +46,20 @@ table{
   color: #E20F84;
   text-align: center;
   margin-bottom: 3.14em;
-  /*width: 100%;*/
-  position: absolute;
+
+  /*position: absolute;*/
   margin: 0;
+  width: 80%;
 }
 
 table img{
   height: 12.5em;
-  width:12.5em;
-  position: relative;
+  width: 6.5em;
+  /*position: relative;*/
+}
+@media only screen and (min-width:768px) {
+    table img {
+        height: 12.5em;
+        width: 12.5em;
+    }
 }
