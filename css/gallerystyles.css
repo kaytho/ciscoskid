@@ -1,6 +1,8 @@
 body{
   background-color: black;
   width: 100%;
+  left: 0px;
+  right: 0px;
 }
   nav{
     background-color:#F8E408;
@@ -15,6 +17,8 @@ body{
     background-color: #E20F84;
     height: 20em;
     width: 100%;
+    left: 0px;
+    right: 0px;
   }
 
   #namesquare img{
@@ -29,6 +33,10 @@ h1{
   margin-top: 50px;
 }
 
+p{
+  color: white;
+  font-size:20px;
+}
 
 
 
@@ -42,11 +50,11 @@ table{
 }
 
 table img{
-  height: 13.5em;
-  width: 13.5em;
+  height: 10em;
+  width: 10em;
 }
 
-@media only screen and (min-width:768px) {
+@media only screen and (min-width:788px) {
     table img {
         height: 18em;
         width: 23em;
